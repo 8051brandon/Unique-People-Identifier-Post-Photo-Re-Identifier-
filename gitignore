@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+memory_efficient_report.json
+reid_report.json
+advanced_visitor_report.json
+improved_reid_report.json
+distance_analysis.png
+cluster_distribution.png
+sample_viz.jpg
+reid_visualization.jpg
+annotated_results/
+reliability_check/
+advanced_results/
+results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test data (keep sample images in examples/)
+visitor_database/
+camera_images/
+test_images/

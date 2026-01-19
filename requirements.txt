@@ -1,0 +1,13 @@
+# Core dependencies (Required for all scripts)
+opencv-python>=4.5.0
+numpy>=1.19.0
+scikit-learn>=0.24.0
+matplotlib>=3.3.0
+
+# For camera_capture.py (live camera tracking)
+ultralytics>=8.0.0  # YOLOv8 for person detection
+
+# Optional: For advanced_visitor_counter.py (YOLOv8 + ResNet50)
+# Uncomment if you want to use the advanced detection script
+# torch>=1.9.0
+# torchvision>=0.10.0
