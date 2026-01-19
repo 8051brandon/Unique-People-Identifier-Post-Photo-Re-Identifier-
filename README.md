@@ -286,8 +286,8 @@ MIT License - See LICENSE file for details
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [8051brandon]([https://github.com/8051brandon])
+- Email: 8051brandon@gmail.com
 
 ## 🙏 Acknowledgments
 
